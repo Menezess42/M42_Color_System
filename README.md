@@ -12,3 +12,4 @@ This code does:
 - In HS(I) it allows increasing and decreasing by 10
 -----
 Over time I will update this readme, as well as create docstrings in code.
+![image](https://user-images.githubusercontent.com/67249275/226203831-1b0cfa74-2640-47a2-b79d-44f8690fbc00.png)
