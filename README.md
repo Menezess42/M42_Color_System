@@ -11,4 +11,4 @@ This code does:
 - In (H)SI it allows increasing and decreasing by 10
 - In HS(I) it allows increasing and decreasing by 10
 -----
-With time I will update this readme
+Over time I will update this readme, as well as create docstrings in code.
