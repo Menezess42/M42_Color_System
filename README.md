@@ -6,8 +6,8 @@ This code does:
 - Manual equalization
 - Manual conversion of:
   - RGB to HSI
-- RGB to CMY
-- HSI to RGB
+  - RGB to CMY
+  - HSI to RGB
 - In (H)SI it allows increasing and decreasing by 10
 - In HS(I) it allows increasing and decreasing by 10
 -----
