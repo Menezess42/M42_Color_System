@@ -1,5 +1,5 @@
 # M42_Color_System
-App to do a series of image conversions requested by the computer graphics professor
+App to do a series of image conversions requested by the computer graphics professor.
 Over time I will update this readme, as well as create docstrings in code.
 -------
 This code does:
